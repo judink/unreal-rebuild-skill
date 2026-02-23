@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unreal Clean Rebuild"
+  short_description: "Generate a portable CleanRebuild.bat for Unreal projects"
+  default_prompt: "Create or update CleanRebuild.bat for this Unreal project with automatic UE/UBT detection and safe clean/build steps."
